@@ -1,4 +1,4 @@
-<h1 align="center">Hi, this is Armnz!</h1>
+<h1 align="center">Hi, this is Armands!</h1>
 <h3 align="center">@ Codelex</h3>
 <p align="left">Always learning. Always building cool stuff.</p>
 <h3 align="left">Connect with me:</h3>
